@@ -141,6 +141,7 @@ env/
 venv/
 ENV/
 env.bak/
+Conversas/
 venv.bak/
 
 # Spyder project settings
